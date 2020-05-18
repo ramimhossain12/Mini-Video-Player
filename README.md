@@ -1,7 +1,9 @@
 # Mini-Video-Player
 #Used in this apps
-#java 
-#kotlin
-#DataBinding
-#Recyclerview
-#cardview 
+
+
+java ,
+kotlin,
+DataBinding,
+Recyclerview,
+cardview 
